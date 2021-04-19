@@ -25,8 +25,7 @@ BUILDING THE PROJECT
 
 Once all the necessary components arrived, I did testing on both the speakers and Bluetooth receiver to check if they worked.  After this preliminary step,  I started taking measurements of each component. The speakers needed a housing to prevent damage and they had to fit seamlessly in the helmet’s limited capacity. I then designed and 3D printed my own speaker housings with holes for wires to exit from. These housings used a interference fit that had to be hit into place to lock the pieces together. (File 1)
 
-2020-12-19 17.19.04.jpeg
-
+![image](https://user-images.githubusercontent.com/36164850/115210842-fccd0800-a0cc-11eb-83ed-b75d811a9465.png)
 
 After this step,  I soldered on each wire for the speakers and connected everything for testing. Everything worked as planned and I proceed to test the fitment inside the helmet. The speakers and receiver all fit well and were even sleeker than I had estimated.
 
@@ -40,8 +39,7 @@ I could improve this project by adding a USB-C wire for charging that hangs out 
 
 FINAL PICTURES
 
-2020-12-19 17.26.07.jpeg
-
+![image](https://user-images.githubusercontent.com/36164850/115210939-13735f00-a0cd-11eb-8de4-3a30bd8b4947.png)
 
 LINKS
 
